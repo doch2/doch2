@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📞 Contact me:
+📞 If you want to contact:
  - Discord ID: 도치#3511
 
 <!--
