@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📞 Contact me:
+ - Discord ID: 도치#3511
+
 <!--
 **doch2/doch2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
