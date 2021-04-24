@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-안녕하세요! 저는 디지털미디어고등학교 20기 웹프로그래밍과에 다니고 있는 유도희(도치)라고 합니다.
+Hello! My name is dohui Ryu(Doch), majoring in web programming in the 20th term of Digital Media High School.
 
-저는 마인크래프트 모드와 플러그인등을 만들며, 이를 이용하여 방송 컨텐츠를 만들고 있습니다.
-제작한 컨텐츠는 뉴띵마을, 내 인생 레전드 등이 있으며 그 외 컨텐츠는 링크된 페이지에서 확인해보실 수 있습니다.
-[페이지 가보기](https://www.notion.so/GitHub-95adf4aa14324142967032dc7a7ac9a2)
+I make Minecraft mode and plug-in, and I am making broadcast contents using it.
+The contents produced are newThing Village, etc., and you can check the other contents on the linked page.
+[Visit Page](https://www.notion.so/GitHub-95adf4aa14324142967032dc7a7ac9a2)
 
    
-📞 연락을 하고 싶으시다면?:
- - 디스코드: 도치#3511
- - 이메일: dohui0922@dimigo.hs.kr
+📞 If you want to contact:
+ - Discord: 도치#3511
+ - E-mail: dohui0922@dimigo.hs.kr
 
 <!--
 **doch2/doch2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
