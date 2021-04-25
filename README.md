@@ -1,3 +1,5 @@
+[Go to Korean Page(한국어 페이지로)](https://github.com/doch2/doch2/blob/main/README_KR.md)
+
 ### Hi there 👋
 
 Hello! My name is dohui Ryu(Doch), majoring in web programming in the 20th term of Digital Media High School.
