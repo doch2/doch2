@@ -6,7 +6,7 @@ Hello! My name is dohui Ryu(Doch), majoring in web programming in the 20th term 
 
 I make Minecraft mode and plug-in, and I am making broadcast contents using it.
 The contents produced are newThing Village, etc., and you can check the other contents on the linked page.
-[Visit Page](https://www.notion.so/GitHub-95adf4aa14324142967032dc7a7ac9a2)
+[Visit Page](https://www.notion.so/GitHub_Eng-0264ef69a5d4491bab28478a0e8c4fbe)
 
    
 📞 If you want to contact:
