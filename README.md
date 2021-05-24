@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hello! My name is dohui Ryu(Doch), majoring in web programming in the 20th term of Digital Media High School..
+Hello! My name is dohui Ryu(och), majoring in web programming in the 20th term of Digital Media High School.
 
 I make Minecraft mode and plug-in, and I am making broadcast contents using it.
 The contents produced are newThing Village, etc., and you can check the other contents on the linked page.
