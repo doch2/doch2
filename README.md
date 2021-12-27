@@ -6,12 +6,13 @@ Hello! My name is dohui Ryu(doch), majoring in web programming in the 20th term 
 
 I make Minecraft mode and plug-in, and I am making broadcast contents using it.
 The contents produced are newThing Village, etc., and you can check the other contents on the linked page.
-[Visit Page](https://www.notion.so/GitHub_Eng-0264ef69a5d4491bab28478a0e8c4fbe)
+[Visit Page](https://www.notion.so/GitHub_Eng-0264ef69a5d4491bab28478a0e8c4fbe)<br/><br/>  
 
 Currently, I am making various applications using Flutter!
  - [Harang](https://play.google.com/store/apps/details?id=com.iceluna.harang) - A coding education application based on a Korean programming language for students who have difficulty programming.
+ - Dalgeurak - A meal application for Korea Digital Media High School students. Download from [Google Play Store](https://play.google.com/store/apps/details?id=com.iceluna.dalgeurak) | [Apple App Store](https://apps.apple.com/kr/app/%EB%8B%AC%EA%B7%B8%EB%9D%BD/id1599863433)<br/><br/>  
 
-   
+
 📞 If you want to contact:
  - Discord: 도치#3511
  - E-mail: dohui0922@dimigo.hs.kr
@@ -34,4 +35,3 @@ Here are some ideas to get you started:
     
     
 [![doch2's GitHub stats](https://github-readme-stats.vercel.app/api?username=doch2)](https://github.com/anuraghazra/github-readme-stats)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doch2)](https://github.com/anuraghazra/github-readme-stats)
