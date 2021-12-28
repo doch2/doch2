@@ -8,8 +8,8 @@
 
 
 현재는 Flutter을 이용해 다양한 어플리케이션들을 제작하고 있습니다!
- - [하랑](https://play.google.com/store/apps/details?id=com.iceluna.harang) - 프로그래밍이 어려운 학생들을 위한 한글형 프로그래밍 언어 기반의 코딩 교육 어플리케이션
- - 달그락 - 디미고 학생들을 위한 급식 어플리케이션 [Google Play Store](https://play.google.com/store/apps/details?id=com.iceluna.dalgeurak) | [Apple App Store](https://apps.apple.com/kr/app/%EB%8B%AC%EA%B7%B8%EB%9D%BD/id1599863433)에서 다운로드<br/><br/>  
+ - 하랑 - 프로그래밍이 어려운 학생들을 위한 한글형 프로그래밍 언어 기반의 코딩 교육 어플리케이션. [Google Play Store](https://play.google.com/store/apps/details?id=com.iceluna.harang)에서 다운로드
+ - [달그락](https://github.com/doch2/dalgeurak) - 디미고 학생들을 위한 급식 어플리케이션. [Google Play Store](https://play.google.com/store/apps/details?id=com.iceluna.dalgeurak) | [Apple App Store](https://apps.apple.com/kr/app/%EB%8B%AC%EA%B7%B8%EB%9D%BD/id1599863433)에서 다운로드<br/><br/>  
 
    
 📞 연락을 하고 싶으시다면?:
