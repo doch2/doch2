@@ -9,8 +9,8 @@ The contents produced are newThing Village, etc., and you can check the other co
 [Visit Page](https://www.notion.so/GitHub_Eng-0264ef69a5d4491bab28478a0e8c4fbe)<br/><br/>  
 
 Currently, I am making various applications using Flutter!
- - [Harang](https://play.google.com/store/apps/details?id=com.iceluna.harang) - A coding education application based on a Korean programming language for students who have difficulty programming.
- - Dalgeurak - A meal application for Korea Digital Media High School students. Download from [Google Play Store](https://play.google.com/store/apps/details?id=com.iceluna.dalgeurak) | [Apple App Store](https://apps.apple.com/kr/app/%EB%8B%AC%EA%B7%B8%EB%9D%BD/id1599863433)<br/><br/>  
+ - Harang - A coding education application based on a Korean programming language for students who have difficulty programming. Download from [Google Play Store](https://play.google.com/store/apps/details?id=com.iceluna.harang) 
+ - [Dalgeurak](https://github.com/doch2/dalgeurak) - A meal application for Korea Digital Media High School students. Download from [Google Play Store](https://play.google.com/store/apps/details?id=com.iceluna.dalgeurak) | [Apple App Store](https://apps.apple.com/kr/app/%EB%8B%AC%EA%B7%B8%EB%9D%BD/id1599863433)<br/><br/>  
 
 
 📞 If you want to contact:
