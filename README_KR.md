@@ -9,7 +9,7 @@
 
 현재는 Flutter을 이용해 다양한 어플리케이션들을 제작하고 있습니다!<br/><br/>  
 
- <center><a href="http://dohui-portfolio.kro.kr">포트폴리오 보러가기</a></center><br/><br/>  
+<div align="center"><a href="http://dohui-portfolio.kro.kr">Go to Portfolio</a></div> <br/><br/>  
 
    
 📞 연락을 하고 싶으시다면?:
