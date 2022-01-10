@@ -4,7 +4,7 @@
 
 Hello! My name is dohui Ryu(doch), majoring in web programming in the 20th term of Korea Digital Media High School.<br/><br/>  
 
-I make Minecraft mode and plug-in, and I am making broadcast contents using it.
+I make Minecraft mode and plug-in, and I am making broadcast contents using it.  
 Currently, I am making various applications using Flutter!<br/><br/>  <br/><br/>  
 
 <div align="center"><a href="http://dohui-portfolio.kro.kr">Go to Portfolio</a></div> <br/><br/>  <br/><br/>  
