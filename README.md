@@ -2,15 +2,12 @@
 
 ### Hi there 👋
 
-Hello! My name is dohui Ryu(doch), majoring in web programming in the 20th term of Korea Digital Media High School.
+Hello! My name is dohui Ryu(doch), majoring in web programming in the 20th term of Korea Digital Media High School.<br/><br/>  
 
 I make Minecraft mode and plug-in, and I am making broadcast contents using it.
-The contents produced are newThing Village, etc., and you can check the other contents on the linked page.
-[Visit Page](https://www.notion.so/GitHub_Eng-0264ef69a5d4491bab28478a0e8c4fbe)  
+Currently, I am making various applications using Flutter!<br/><br/>  <br/><br/>  
 
-Currently, I am making various applications using Flutter!<br/><br/>  
-
-<div align="center"><a href="http://dohui-portfolio.kro.kr">Go to Portfolio</a></div> <br/><br/>  
+<div align="center"><a href="http://dohui-portfolio.kro.kr">Go to Portfolio</a></div> <br/><br/>  <br/><br/>  
 
 
 📞 If you want to contact:
