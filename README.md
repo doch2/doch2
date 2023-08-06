@@ -9,7 +9,7 @@ I want to write code and turn my imagination into reality and become a person wh
 
 Currently, I am producing services that solve people's inconveniences through various technologies.
 Currently, the most focused service is 'Coding Education Service Using Hangul Programming Language, "Horang"'.  
-I am striving to start a company and grow services by being selected as a support project for prospective entrepreneurs by the Ministry of SMEs and Startups Korea in 2023 (average support fund of 50 million won).  
+I am striving to start a company and grow services by being selected as a support project for prospective entrepreneurs by the Ministry of SMEs and Startups Korea in 2023 (average support fund of $38,500).  
 
 I'm producing a "KOSMOS" service that solves crowd turbulence, which is the cause of "crowd crush" such as the Itaewon disaster. 
 Through this, I was selected as the Korean delegation to the 2023 European Union Contest for Young Scientists (EUCYS) International Science Conference hosted by the European Commission.
