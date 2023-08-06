@@ -2,18 +2,25 @@
 
 ### Hi there 👋
 
-Hello! I'm dohui Ryu, a developer and entrepreneur who strives to create a better world through IT technology.
-I am currently majoring in web programming at Korea Digital Media High School.
+Hello! I'm Dohui Ryu, a developer and entrepreneur who strives to create a better world through IT technology.
+Currently, I am attending the Department of Web Programming at Korea Digital Media High School and serving as the CEO of [HORANG EDU Corp.](https://horang.it).
 
-By writing code, I want to turn my imagination into reality and become a person who presents dreams to people.<br/><br/>  
+I want to write code and turn my imagination into reality and become a person who presents dreams to people.<br/><br/>  
 
-I first started coding through Minecraft. I have created Minecraft mode and plug-in, and I have produced a number of Minecraft contents by creator YangDding(양띵).
+Currently, I am producing services that solve people's inconveniences through various technologies.
+Currently, the most focused service is 'Coding Education Service Using Hangul Programming Language, "Horang"'.  
+I am striving to start a company and grow services by being selected as a support project for prospective entrepreneurs by the Ministry of SMEs and Startups Korea in 2023 (average support fund of 50 million won).  
 
-Currently, I am developing a service that solves people's inconvenience using flutter.  
-As a representative service, there is 'Harang, a coding education service based on Hangul programming language'.  
+I'm producing a "KOSMOS" service that solves crowd turbulence, which is the cause of "crowd crush" such as the Itaewon disaster. 
+Through this, I was selected as the Korean delegation to the 2023 European Union Contest for Young Scientists (EUCYS) International Science Conference hosted by the European Commission.
+
+In addition, I have devised various types of social venture products such as "Sinibank," a banking service for the elderly, and "FlowerStick," a digital education service.  
+It also led the production of "Dimipay", a face-certification card payment solution used in the school, and Dalgrak, a simple meal service.
+It was also selected as the 2022 Talent Award of Korea🏅 through various activities.
+
 In addition, I have experience in researching artificial intelligence and writing artificial intelligence papers on topics related to stock price prediction.
 <br/><br/>  
-You can find out more about my projects through my portfolio site!
+You can find out more about the projects I've worked on on the portfolio site!
 <br/><br/>  
 <div align=center>📚 STACKS</div>
 
@@ -51,7 +58,7 @@ You can find out more about my projects through my portfolio site!
 
 📞 If you want to contact:
  - Discord: 도치#3511
- - E-mail: dohui.ryu@harang.it
+ - E-mail: dohui.ryu@horang.it
 
 <!--
 **doch2/doch2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
