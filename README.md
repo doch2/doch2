@@ -15,7 +15,7 @@ I'm producing a "KOSMOS" service that solves crowd turbulence, which is the caus
 Through this, I was selected as the Korean delegation to the 2023 European Union Contest for Young Scientists (EUCYS) International Science Conference hosted by the European Commission.
 
 In addition, I have devised various types of social venture products such as "Sinibank," a banking service for the elderly, and "FlowerStick," a digital education service.  
-It also led the production of "Dimipay", a face-certification card payment solution used in the school, and Dalgrak, a simple meal service.
+It also led the production of "Dimipay", a face-certification card payment solution used in the school, and "Dalgeurak", a simple meal service.
 It was also selected as the 2022 Talent Award of Korea🏅 through various activities.
 
 In addition, I have experience in researching artificial intelligence and writing artificial intelligence papers on topics related to stock price prediction.
