@@ -12,7 +12,7 @@ Currently, the most focused service is 'Coding Education Service Using Hangul Pr
 I am striving to start a company and grow services by being selected as a support project for prospective entrepreneurs by the Ministry of SMEs and Startups Korea in 2023 (average support fund of $38,500).  
 
 I'm producing a "KOSMOS" service that solves crowd turbulence, which is the cause of "crowd crush" such as the Itaewon disaster. 
-Through this, I was selected as the Korean delegation to the 2023 European Union Contest for Young Scientists (EUCYS) International Science Conference hosted by the European Commission.
+Through this, I was selected as the Korean delegation to the 2023 European Union Contest for Young Scientists (EUCYS) International Science Competition hosted by the European Commission.
 
 In addition, I have devised various types of social venture products such as "Sinibank," a banking service for the elderly, and "FlowerStick," a digital education service.  
 It also led the production of "Dimipay", a face-certification card payment solution used in the school, and "Dalgeurak", a simple meal service.
