@@ -2,21 +2,33 @@
 
 ### Hi there 👋
 
-Hello! I'm Dohui Ryu, a developer and entrepreneur who strives to create a better world through IT technology.
-Currently, I am attending the Department of Web Programming at Korea Digital Media High School and serving as the CEO of [HORANG EDU Corp.](https://horang.it).
+Hello! I'm **Dohui Ryu**, a developer-entrepreneur working to build a better world through IT.  
+I write code to turn imagination into reality and give people the gift of possibility.
 
-I want to write code and turn my imagination into reality and become a person who presents dreams to people.<br/><br/>  
+In 2023 I founded and now run **[HORANG EDU Corp.](https://horang.it)**.
 
-Currently, I am producing services that solve people's inconveniences through various technologies.
-Currently, the most focused service is 'Coding Education Service Using Hangul Programming Language, "Horang"'.  
-I am striving to start a company and grow services by being selected as a support project for prospective entrepreneurs by the Ministry of SMEs and Startups Korea in 2023 (average support fund of $38,500).  
 
-I'm producing a "KOSMOS" service that solves crowd turbulence, which is the cause of "crowd crush" such as the Itaewon disaster. 
-Through this, I was selected as the Korean delegation to the 2023 European Union Contest for Young Scientists (EUCYS) International Science Competition hosted by the European Commission.
+---
 
-In addition, I have devised various types of social venture products such as "Sinibank," a banking service for the elderly, and "FlowerStick," a digital education service.  
-It also led the production of "Dimipay", a face-certification card payment solution used in the school, and "Dalgeurak", a simple meal service.
-It was also selected as the 2022 Talent Award of Korea🏅 through various activities.
+What I’m building—
+
+Right now I’m creating **“Horang,”** a service that teaches coding *in Korean* so children who struggle with English-based languages can learn to program with ease. My goal is a world where anyone can swiftly develop computational thinking and build the software they envision, while also giving teachers tools that remove everyday pain points.
+
+What we’ve achieved so far—
+
+* Completed multiple Korean government startup programs, including **Youth Startup Academy**, and raised investment from the Yoonmin Foundation.
+* Researching and developing classroom-friendly features such as an AI Coding Tutor powered by RAG techniques.
+* **45 +** schools and learning centers already use Horang, both free and paid.
+
+Other projects & recognition—
+
+* Built **“KOSMOS,”** a service that mitigates crowd turbulence—the root cause of crush disasters like the Itaewon tragedy—and was selected for the Korean delegation to **EUCYS 2023** (European Union Contest for Young Scientists).
+* Ideated social-venture products such as **“Seni(or)Bank,”** a banking service for older adults, and **“Kkotpang-i,”** a digital education platform.
+* Led campus projects including **“DimiPay,”** a facial-recognition cafeteria payment system, and **“Dalgeurak,”** a convenient meal-kit service.
+* Honored with the **2022 Korea Talent Award🏅**, presented by the Deputy Prime Minister of South Korea.
+
+I’ll keep writing code that transforms imagination into reality—so more people can dream, build, and thrive.
+
 
 In addition, I have experience in researching artificial intelligence and writing artificial intelligence papers on topics related to stock price prediction.
 <br/><br/>  
