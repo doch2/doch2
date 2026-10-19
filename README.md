@@ -14,11 +14,6 @@ What I’m building—
 
 Right now I’m creating **“Horang,”** a service that teaches coding *in Korean* so children who struggle with English-based languages can learn to program with ease. My goal is a world where anyone can swiftly develop computational thinking and build the software they envision, while also giving teachers tools that remove everyday pain points.
 
-What we’ve achieved so far—
-
-* Completed multiple Korean government startup programs, including **Youth Startup Academy**, and raised investment from the Yoonmin Foundation.
-* Researching and developing classroom-friendly features such as an AI Coding Tutor powered by RAG techniques.
-* **45 +** schools and learning centers already use Horang, both free and paid.
 
 Other projects & recognition—
 
